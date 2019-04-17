@@ -1,0 +1,4 @@
+TaPec		KEYWORD1
+begin		KEYWORD2
+write		KEYWORD2
+writeln		KEYWORD2
